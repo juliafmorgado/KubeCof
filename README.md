@@ -7,3 +7,7 @@
 Your Kubernetes Coffee Chat ☸️☕️ presented by [@juliafmorgado](https://twitter.com/juliafmorgado)
 
 This repository is used to document KubeCof, a community show to help you learn more about Kubernetes, Devops and the Cloud Native ecosystem.
+
+[Watch](https://www.youtube.com/juliafmorgado) the episodes
+Listen to the episodes
+[Subscribe](https://www.getrevue.co/profile/juliafmorgado) to the newsletter
