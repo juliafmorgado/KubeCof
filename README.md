@@ -17,11 +17,11 @@ If you want to be on the show to talk about any of the topics below feel free to
 
 This repository will be used to keep track of the episodes and resources. I've used Michael Cade's [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/README.md) as a roadmap for this project.
 
-## [Introduction](https://github.com/juliafmorgado/KubeCof/blob/main/Roadmap/Intro.md)
+#### [Introduction](https://github.com/juliafmorgado/KubeCof/blob/main/Roadmap/Intro.md)
 
-## [Back to basics](https://github.com/juliafmorgado/KubeCof/blob/main/Roadmap/Back-to-basics.md)
+#### [Back to basics](https://github.com/juliafmorgado/KubeCof/blob/main/Roadmap/Back-to-basics.md)
 
-## [Overview & Intro to DevOps](https://github.com/juliafmorgado/KubeCof/blob/main/Roadmap/Intro-DevOps.md)
+#### [Overview & Intro to DevOps](https://github.com/juliafmorgado/KubeCof/blob/main/Roadmap/Intro-DevOps.md)
 
 
 
